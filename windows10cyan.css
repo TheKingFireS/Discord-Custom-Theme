@@ -1,14 +1,14 @@
 /**
- * @name ClearVision
- * @author ClearVision Team
- * @version 6.3.0
- * @description Highly customizable theme for BetterDiscord.
+ * @name TheKingFireS' ClearVision Windows 10 Cyan
+ * @author TheKingFireS
+ * @version 0.0.5
+ * @description Highly customizable theme for any modded Discord.
+ * @source https://github.com/TheKingFireS/Discord-Custom-Theme 
  * @source https://github.com/ClearVision/ClearVision-v6
- * @website https://clearvision.gitlab.io
- * @invite dHaSxn3
+ * @website https://github.com/TheKingFireS/Discord-Custom-Theme
  */
 
-/* Credits to Zerthox for making the original theme. */
+/* Credits to Zerthox and ClearVision Team for making the original theme. */
 
 /* IMPORT CSS */
 @import url(https://clearvision.github.io/ClearVision-v6/main.css);
@@ -54,7 +54,7 @@
   --background-blur: 0px; /* app background blur [default: 0px] */
 
   /* HOME BUTTON ICON */
-  --home-icon: url(https://clearvision.gitlab.io/icons/discord.svg); /* home button icon (link must be HTTPS) [default: url(https://clearvision.gitlab.io/icons/discord.svg)]*/
+  --home-icon: url(https://raw.githubusercontent.com/TheKingFireS/Discord-Custom-Theme/main/resources/discord.svg); /* home button icon (link must be HTTPS) [default: url(https://clearvision.gitlab.io/icons/discord.svg)]*/
   --home-position: center; /* home button icon position [default: center] */
   --home-size: 40px; /* home button icon size [default: 40px] */
 
